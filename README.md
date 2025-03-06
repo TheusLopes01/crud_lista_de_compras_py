@@ -1,1 +1,1 @@
-# crud_lista_de_compras_py
+# Lista de compras with Py using CRUD
